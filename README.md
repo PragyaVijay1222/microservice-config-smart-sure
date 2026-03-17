@@ -1,0 +1,1 @@
+# microservice-config-smart-sure
